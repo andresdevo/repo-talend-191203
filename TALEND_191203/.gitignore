@@ -1,0 +1,9 @@
+.git
+.Java
+.JETEmitters
+.metadata
+**/temp
+**/code/routines/system
+**/sqlPatterns
+**/process/*.screenshot
+
